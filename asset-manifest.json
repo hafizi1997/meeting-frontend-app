@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/meeting-frontend-app/static/css/main.c775e9a4.css",
+    "main.js": "/meeting-frontend-app/static/js/main.3b0e7c81.js",
+    "static/media/primeicons.svg": "/meeting-frontend-app/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/meeting-frontend-app/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/meeting-frontend-app/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/meeting-frontend-app/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/meeting-frontend-app/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/logo.jpg": "/meeting-frontend-app/static/media/logo.18fafce55f2cd8cb8c9f.jpg",
+    "index.html": "/meeting-frontend-app/index.html",
+    "main.c775e9a4.css.map": "/meeting-frontend-app/static/css/main.c775e9a4.css.map",
+    "main.3b0e7c81.js.map": "/meeting-frontend-app/static/js/main.3b0e7c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c775e9a4.css",
+    "static/js/main.3b0e7c81.js"
+  ]
+}
