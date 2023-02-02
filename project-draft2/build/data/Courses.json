@@ -1,0 +1,12 @@
+{
+"data" :[
+   { "names":"Ai"},
+   { "names":"IOT"},
+   { "names":"Data Analys"},
+   { "names":"Blockchain"},
+   { "names":"Cloud"},
+   { "names":"Data Engineer"},
+   { "names":"Data Scientist"},
+   { "names":"Security"}
+  ]
+}

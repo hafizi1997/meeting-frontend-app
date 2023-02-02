@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Meeting-frontend/static/css/main.aa504a3f.css",
+    "main.js": "/Meeting-frontend/static/js/main.8bfc14f4.js",
+    "static/media/primeicons.svg": "/Meeting-frontend/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/Meeting-frontend/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/Meeting-frontend/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/Meeting-frontend/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/Meeting-frontend/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/logo.jpg": "/Meeting-frontend/static/media/logo.18fafce55f2cd8cb8c9f.jpg",
+    "index.html": "/Meeting-frontend/index.html",
+    "main.aa504a3f.css.map": "/Meeting-frontend/static/css/main.aa504a3f.css.map",
+    "main.8bfc14f4.js.map": "/Meeting-frontend/static/js/main.8bfc14f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa504a3f.css",
+    "static/js/main.8bfc14f4.js"
+  ]
+}
